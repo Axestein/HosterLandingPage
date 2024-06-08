@@ -1,8 +1,11 @@
 # HosterLandingPage
 This project was made from html and tailwindcss. NOTE-This repo does not contain any Node Modules.
-
-
 MOBILE VIEW:
+
+
+
+
+
 ![Screenshot 2024-06-09 000534](https://github.com/Axestein/HosterLandingPage/assets/142435507/4d8b6f0d-fb66-463d-a297-8495b0866d03)
 
 TABLET VIEW:
